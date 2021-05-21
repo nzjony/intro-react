@@ -75,7 +75,7 @@ class App extends React.Component {
           currList={this.state.students}
           addFunction={this.addStudent}
           title="Student Roster"
-        />
+        /> 
       );
     }
 
